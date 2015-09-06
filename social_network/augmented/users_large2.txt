@@ -1,0 +1,221 @@
+44
+0
+	George Washington
+	1789
+	90011
+	40 32 27
+1
+	John Adams
+	1797
+	90001
+	35 26 2 27 29 32
+2
+	Thomas Jefferson
+	1801
+	90006
+	26 29 3 10 1
+3
+	James Madison
+	1809
+	90003
+	2
+4
+	James Monroe
+	1817
+	90002
+	30 23 33 35
+5
+	JohnQ Adams
+	1825
+	90004
+	16 18 20
+6
+	Andrew Jackson
+	1829
+	90009
+	24 37
+7
+	Martin VanBuren
+	1837
+	90002
+	26 19 38 43
+8
+	William Harrison
+	1841
+	90010
+	10 12 35 42 17 41
+9
+	John Tyler
+	1841
+	90001
+	19 10
+10
+	James Polk
+	1845
+	90003
+	38 40 8 13 25 30 2 41 21 9
+11
+	Zachary Taylor
+	1849
+	90017
+	15 22
+12
+	Millard Fillmore
+	1850
+	90001
+	30 8 25
+13
+	Franklin Pierce
+	1853
+	90005
+	22 10 18 40
+14
+	James Buchanan
+	1857
+	90017
+	36 27
+15
+	Abraham Lincoln
+	1861
+	90017
+	11 43
+16
+	Andrew Johnson
+	1865
+	90004
+	5 42 43 26 31 25 41
+17
+	Ulysses Grant
+	1869
+	90007
+	36 22 30 8
+18
+	Rutherford Hayes
+	1877
+	90016
+	5 27 13 38 22
+19
+	James Garfield
+	1881
+	90006
+	7 9
+20
+	Chester Arthur
+	1881
+	90012
+	34 35 32 5
+21
+	Grover Cleveland
+	1885
+	90011
+	38 43 42 10 31 33
+22
+	Benjamin Harrison
+	1889
+	90011
+	30 13 17 11 31 18
+23
+	Groverina Cleveland
+	1893
+	90018
+	4
+24
+	William McKinley
+	1897
+	90002
+	6
+25
+	Theodore Roosevelt
+	1901
+	90001
+	37 10 16 12
+26
+	William Taft
+	1909
+	90011
+	7 43 2 16 1 38
+27
+	Woodrow Wilson
+	1913
+	90008
+	36 0 18 1 30 14
+28
+	Warren Harding
+	1921
+	90014
+	39
+29
+	Calvin Coolidge
+	1923
+	90007
+	2 43 31 1 39
+30
+	Herbert Hoover
+	1929
+	90009
+	12 4 22 17 31 10 27
+31
+	Franklin Roosevelt
+	1933
+	90006
+	30 22 16 21 29
+32
+	Harry Truman
+	1945
+	90004
+	0 1 20
+33
+	Dwight Eisenhower
+	1953
+	90016
+	4 21
+34
+	John Kennedy
+	1961
+	90016
+	20 38
+35
+	Lyndon Johnson
+	1963
+	90006
+	1 20 8 36 37 4
+36
+	Richard Nixon
+	1969
+	90018
+	27 17 35 14
+37
+	Gerald Ford
+	1974
+	90012
+	25 6 35 40
+38
+	Jimmy Carter
+	1977
+	90008
+	21 43 10 26 34 7 18
+39
+	Ronald Reagan
+	1981
+	90015
+	28 29
+40
+	George Bush
+	1989
+	90014
+	0 10 37 13
+41
+	Bill Clinton
+	1993
+	90013
+	10 16 8
+42
+	GeorgeW Bush
+	2001
+	90012
+	16 21 8
+43
+	Barack Obama
+	2009
+	90016
+	21 38 16 26 15 29 7
